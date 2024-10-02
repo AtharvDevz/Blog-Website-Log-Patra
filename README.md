@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blog Website
+
+A fully functional blog website built using **Next.js**, **Tailwind CSS**, and **Appwrite**. This project leverages the power of modern web development technologies to create a fast, responsive, and secure blogging platform.
+
+## Features
+
+- **Responsive UI** powered by Tailwind CSS.
+- **Markdown support** for rich text editing.
+- **Secure Data Storage** with Appwrite's database.
+- **File Storage** for images and other media.
+
+## Technologies Used
+
+- **Next.js**: React-based framework for server-side rendering and optimized performance.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Appwrite**: Backend as a service (BaaS) providing authentication, databases, storage, and more.
 
 ## Getting Started
 
